@@ -7,39 +7,39 @@
         "isFinished": true
     },
     {
-        "id": "scan_multiple_codes_from_photos",
+        "id": "scan-multiple-codes-from-photos",
         "title": "Scan multiple codes from a single photo",
         "status": "finished",
         "description" : "Scan multiple codes in a single photo",
         "isFinished": true
     },
     {
-        "id": "crop_photos_before_scanning",
+        "id": "crop-photos-before-scanning",
         "title": "Optionally crop photos before scanning",
         "status": "finished",
         "description" : "Scan multiple codes from a single photo",
         "isFinished": true
     },
     {
-        "id": "batch_scanning",
+        "id": "batch-scanning",
         "title": "Batch scanning",
         "status": "considering",
         "description" : "Scan codes using the camera in batches"
     },
     {
-        "id": "icloud_syncing",
+        "id": "icloud-syncing",
         "title": "iCloud Syncing",
         "status": "considering",
         "description" : "Sync your history across your devices using iCloud"
     },
       {
-        "id": "create_barcodes",
+        "id": "create-barcodes",
         "title": "Create barcodes",
         "status": "considering",
         "description" : "Create barcodes (not just QR codes)"
     },
     {
-        "id": "qr_code_correction_levels",
+        "id": "qr-code-correction-levels",
         "title": "QR Code Correction Levels",
         "status": "considering",
         "description" : "Choose QR Code data correction level when creating QR codes"
