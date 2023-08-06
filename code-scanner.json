@@ -1,97 +1,96 @@
-[
-    {
-        "id": "scan-codes-from-photos",
-        "title": "Scan codes from photos in your photo library",
-        "status": "done",
-        "isFinished": true
-    },
-    {
-        "id": "scan-multiple-codes-from-photos",
-        "title": "Scan multiple codes from a single photo",
-        "status": "done",
-        "isFinished": true
-    },
-    {
-        "id": "crop-photos-before-scanning",
-        "title": "Optionally crop photos before scanning",
-        "status": "done",
-        "isFinished": true
-    },
-    {
-        "id": "open-links-automatically",
-        "title": "Open links automatically when scanned",
-        "status": "done",
-        "isFinished": true
-    },
-    {
-        "id": "copy-codes-automatically",
-        "title": "Copy codes automatically when scanned",
-        "status": "done",
-        "isFinished": true
-    },
-    {
-        "id": "batch-scanning",
-        "title": "Scan codes in batches using the camera",
-        "status": "up-next",
-    },
-    {
-        "id": "icloud-syncing",
-        "title": "Sync history across devices using iCloud",
-        "status": "maybe",
-    },
-      {
-        "id": "create-barcodes",
-        "title": "Create barcodes (not just QR codes)",
-        "status": "maybe",
-    },
-    {
-        "id": "qr-code-correction-levels",
-        "title": "Choose QR Code Correction Level when creating QR codes",
-        "status": "maybe",
-    },
-    {
-        "id": "qr-code-styling",
-        "title": "Choose colours & styling when creating QR codes",
-        "status": "maybe",
-    },
-    {
-        "id": "code-tags-folders",
-        "title": "Organise codes by tags and folders",
-        "status": "backlog",
-    },
-    {
-        "id": "custom-app-icons",
-        "title": "Custom app icons",
-        "status": "backlog",
-    },
-    {
-        "id": "custom-app-theming",
-        "title": "Custom app themes & colours",
-        "status": "backlog",
-    },
-    {
-        "id": "ignore-duplicate-scans",
-        "title": "Ignore duplicate scans by not saving to history",
-        "status": "backlog",
-    },
-    {
-        "id": "lock-app",
-        "title": "Lock app with passcode, Face ID or Touch ID",
-        "status": "backlog",
-    },
-    {
-        "id": "qr-code-templates",
-        "title": "Templates for creating QR Codes (such as email, phone number, website, Wi-Fi, social media etc.)",
-        "status": "backlog",
-    },
-    {
-        "id": "scan-documents",
-        "title": "Scan documents using camera",
-        "status": "backlog",
-    },
-    {
-        "id": "product-details",
-        "title": "Get product details such as online sellers, prices, food ingredients & nutrional info",
-        "status": "backlog",
-    },
+[{
+		"id": "scan-codes-from-photos",
+		"title": "Scan codes from photos in your photo library",
+		"status": "done",
+		"isFinished": true
+	},
+	{
+		"id": "scan-multiple-codes-from-photos",
+		"title": "Scan multiple codes from a single photo",
+		"status": "done",
+		"isFinished": true
+	},
+	{
+		"id": "crop-photos-before-scanning",
+		"title": "Optionally crop photos before scanning",
+		"status": "done",
+		"isFinished": true
+	},
+	{
+		"id": "open-links-automatically",
+		"title": "Open links automatically when scanned",
+		"status": "done",
+		"isFinished": true
+	},
+	{
+		"id": "copy-codes-automatically",
+		"title": "Copy codes automatically when scanned",
+		"status": "done",
+		"isFinished": true
+	},
+	{
+		"id": "batch-scanning",
+		"title": "Scan codes in batches using the camera",
+		"status": "up-next"
+	},
+	{
+		"id": "icloud-syncing",
+		"title": "Sync history across devices using iCloud",
+		"status": "maybe"
+	},
+	{
+		"id": "create-barcodes",
+		"title": "Create barcodes (not just QR codes)",
+		"status": "maybe"
+	},
+	{
+		"id": "qr-code-correction-levels",
+		"title": "Choose QR Code Correction Level when creating QR codes",
+		"status": "maybe"
+	},
+	{
+		"id": "qr-code-styling",
+		"title": "Choose colours & styling when creating QR codes",
+		"status": "maybe"
+	},
+	{
+		"id": "code-tags-folders",
+		"title": "Organise codes by tags and folders",
+		"status": "backlog"
+	},
+	{
+		"id": "custom-app-icons",
+		"title": "Custom app icons",
+		"status": "backlog"
+	},
+	{
+		"id": "custom-app-theming",
+		"title": "Custom app themes & colours",
+		"status": "backlog"
+	},
+	{
+		"id": "ignore-duplicate-scans",
+		"title": "Ignore duplicate scans by not saving to history",
+		"status": "backlog"
+	},
+	{
+		"id": "lock-app",
+		"title": "Lock app with passcode, Face ID or Touch ID",
+		"status": "backlog"
+	},
+	{
+		"id": "qr-code-templates",
+		"title": "Templates for creating QR Codes (such as email, phone number, website, Wi-Fi, social media etc.)",
+		"status": "backlog"
+	},
+	{
+		"id": "scan-documents",
+		"title": "Scan documents using camera",
+		"status": "backlog"
+	},
+	{
+		"id": "product-details",
+		"title": "Get product details such as online sellers, prices, food ingredients & nutrional info",
+		"status": "backlog"
+	}
 ]
