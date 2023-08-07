@@ -31,7 +31,7 @@
 	{
 		"id": "batch-scanning",
 		"title": "Scan codes in batches using the camera",
-		"status": "up-next"
+		"status": "maybe"
 	},
 	{
 		"id": "icloud-syncing",
@@ -56,41 +56,41 @@
 	{
 		"id": "code-tags-folders",
 		"title": "Organise codes by tags and folders",
-		"status": "backlog"
+		"status": "maybe"
 	},
 	{
 		"id": "custom-app-icons",
 		"title": "Custom app icons",
-		"status": "backlog"
+		"status": "maybe"
 	},
 	{
 		"id": "custom-app-theming",
 		"title": "Custom app themes & colours",
-		"status": "backlog"
+		"status": "maybe"
 	},
 	{
 		"id": "ignore-duplicate-scans",
 		"title": "Ignore duplicate scans by not saving to history",
-		"status": "backlog"
+		"status": "maybe"
 	},
 	{
 		"id": "lock-app",
 		"title": "Lock app with passcode, Face ID or Touch ID",
-		"status": "backlog"
+		"status": "maybe"
 	},
 	{
 		"id": "qr-code-templates",
 		"title": "Templates for creating QR Codes (such as email, phone number, website, Wi-Fi, social media etc.)",
-		"status": "backlog"
+		"status": "maybe"
 	},
 	{
 		"id": "scan-documents",
 		"title": "Scan documents using camera",
-		"status": "backlog"
+		"status": "maybe"
 	},
 	{
 		"id": "product-details",
 		"title": "Get product details such as online sellers, prices, food ingredients & nutrional info",
-		"status": "backlog"
+		"status": "maybe"
 	}
 ]
